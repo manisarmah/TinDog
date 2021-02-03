@@ -1,0 +1,171 @@
+#title{
+  background-color: #ff4c68
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-size: 4rem;
+  font-weight: 900;
+  color: white;
+
+}
+.testimonial-text{
+    color: #fff;
+}
+.container{
+  padding: 3% 15% 7%;
+}
+.navbar{
+  padding-bottom: 50px !important;
+
+}
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-family: 'Montserrat-Light';
+  font-size: 1.2rem;
+}
+.download-button{
+margin:5% 3% 5% 0;
+}
+.title-img{
+  width: 26%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 15%;
+  top: 30%
+}
+.row{
+  text-align: center;
+  padding: 10% 3% 5% 3%;
+  font-size: 1.5rem;
+
+}
+#iff
+{
+  color: #ff4c68
+
+}
+#iff:hover{
+  color:#600719;
+  cursor: pointer;
+}
+#testimonials{
+  background-color: #E94266;
+  text-align: center;
+height: 80%;
+
+}
+#press
+{
+
+  background-color: #E94266;
+
+
+}
+.change{
+  margin-top: 10px;
+}
+.testimonial-image{
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+  padding-top:20px;
+  text-align: center;
+}
+em{
+  color: #fff;
+}
+.press-image{
+padding: 10% 3% 10% 5%;
+width: 60%;
+text-align: center;
+margin: 2px 45px 5px 1px ;
+}
+.carousel-control-prev{
+padding-right: 85px;
+}
+.carousel-control-next{
+padding-left: 85px;
+}
+.carousel-item{
+    padding: 5% 25% 6% 25%;
+}
+.carousel-indicators{
+  margin:20px 10px 1px 50px;
+  padding-top: 50px;
+  padding-right: 60px;
+}
+#pricing{
+  padding:100px;
+   background-color: #D8C8CF ;
+}
+#cursive{
+  font-family: 'Kristi', cursive;
+  font-size: 4.5rem;
+  text-align:center;
+
+}
+#subtitle{
+  font-family: 'Sriracha', cursive;
+  font-size: 1.2rem;
+  text-align: center;
+}
+#small{
+
+  font-size: 0.98rem;
+  font-weight: 500;
+
+}
+#features{
+  background-color: #D8C8CF  ;
+  position: relative;
+  z-index: 1;
+}
+
+@media (max-width:990px) {
+  .title-img{
+    position: static;
+    transform: rotate(0);
+  }
+  #below{
+    text-align: center;
+  }
+}
+.hatao{
+font-family: 'Yusei Magic', sans-serif;
+  font-weight: bold;
+  padding:40px;
+  color: #fff;
+}
+#cta{
+  background-color: #F90F79 ;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+#footer{
+  padding: 30px 20px 20px 20px;
+  text-align: center;
+}
+#press{
+  padding: 0px 10px 5px;
+}
+#foot:hover{
+  color:#6D6365;
+  cursor: pointer;
+}
+#foot{
+  margin: 10px;
+  font-size: 1.5rem;
+}
+.pad{
+  padding-top:10px;
+}
