@@ -130,11 +130,11 @@ padding-left: 85px;
   z-index: 1;
 }
 
-/* @media (max-width:990px) {
+ @media (max-width:990px) {
   .title-img{
     position: static;
     transform: rotate(0);
-  } */
+  } 
   #below{
     text-align: center;
   }
